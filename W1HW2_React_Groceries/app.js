@@ -65,3 +65,5 @@ class App extends React.Component {
 ReactDOM.render (
     <App />, document.getElementById('container')
 )
+
+/* This is a test !! haha */
